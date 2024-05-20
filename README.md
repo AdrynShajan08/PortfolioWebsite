@@ -1,2 +1,2 @@
 # PortfolioWebsite
-code base for a portfolio website of a Data Scientist or AI/ML Engineer
+This project uses HTML, CSS and vanilla JavaScript for creating a single page website.
